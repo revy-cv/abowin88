@@ -8,7 +8,7 @@
     <meta name="format-detection" content="telephone=no">
     <link rel="shortcut icon" href="https://i.ibb.co/p3Krd86/1234.png" type="image/x-icon">
     <title>ABOWIN88 : PLAYNOW!! Kalah Sudah pasti Saldo Kembali 100% </title>
-    <link rel="canonical" href="https://jacquelinebulnes.com/">
+    <link rel="canonical" href="https://abowin88.com/">
     <meta name="keywords"
         content="ABOWIN88, Daftar ABOWIN88, Link ABOWIN88, Link Alternatif ABOWIN88, Situs ABOWIN88">
     <meta name="googlebot" content="index,follow">
@@ -236,7 +236,7 @@
             border-radius: 0 1rem 1rem 0
         }
 
-        .olxtoto {
+        .abowin88 {
             animation: borderAnimation 3s linear infinite;
             border: 2px solid;
             border-radius: 10px;
